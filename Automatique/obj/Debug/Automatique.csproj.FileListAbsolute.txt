@@ -1,0 +1,8 @@
+c:\users\baker\documents\visual studio 2015\Projects\Automatique\Automatique\bin\Debug\Automatique.exe.config
+c:\users\baker\documents\visual studio 2015\Projects\Automatique\Automatique\bin\Debug\Automatique.exe
+c:\users\baker\documents\visual studio 2015\Projects\Automatique\Automatique\bin\Debug\Automatique.pdb
+c:\users\baker\documents\visual studio 2015\Projects\Automatique\Automatique\obj\Debug\Automatique.csprojResolveAssemblyReference.cache
+c:\users\baker\documents\visual studio 2015\Projects\Automatique\Automatique\obj\Debug\Automatique.Properties.Resources.resources
+c:\users\baker\documents\visual studio 2015\Projects\Automatique\Automatique\obj\Debug\Automatique.csproj.GenerateResource.Cache
+c:\users\baker\documents\visual studio 2015\Projects\Automatique\Automatique\obj\Debug\Automatique.exe
+c:\users\baker\documents\visual studio 2015\Projects\Automatique\Automatique\obj\Debug\Automatique.pdb
